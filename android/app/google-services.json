@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597356352839",
+    "project_id": "salaty-174bb",
+    "storage_bucket": "salaty-174bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597356352839:android:ad8ae0c97e856a284a6862",
+        "android_client_info": {
+          "package_name": "com.example.salty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597356352839-ap152c6hlc8gt8gu9uhdetk1itlrvbh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDArDQFe4sLzsxOnyNQDE634RvsgJdeEZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597356352839-ap152c6hlc8gt8gu9uhdetk1itlrvbh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
